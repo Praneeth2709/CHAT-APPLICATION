@@ -25,3 +25,6 @@ The application can be run locally on a computer, and users can access it throug
 If there’s a need to add more features in the future, such as user authentication or message history, the current structure makes it easy to expand. The main focus for now was to keep the app simple and functional, demonstrating how real-time communication can be achieved with basic tools and clear integration between the frontend and backend.
 
 #Output:
+<img width="639" height="516" alt="Image" src="https://github.com/user-attachments/assets/0c8a6b5b-2cf6-4645-b347-1f7991d4588a" />
+
+<img width="510" height="530" alt="Image" src="https://github.com/user-attachments/assets/e835e97b-33e5-4dde-896c-8e3a0ccfce3b" />
